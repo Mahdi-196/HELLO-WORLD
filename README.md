@@ -12,10 +12,7 @@ a0system || abap || abc || acc || accent || action || actionscript || actor || a
 
 Clone the repo
 
-git clone https://github.com/<OWNER>/hello-world.git
-cd hello-world
-
-Run a script
+Run a script:
 
 Interpreted languages (e.g. Python, Ruby):
 
@@ -28,9 +25,7 @@ gcc c.c -o c && ./c
 javac java.java && java java
 go run go.go
 
-Check each file’s comment at the top for exact commands.
-
-File naming convention
+File naming convention:
 
 Each file is named <language>.<extension> and contains a minimal “Hello, World!” example.
 
@@ -40,7 +35,7 @@ Create yourlang.<ext>.
 
 Add your “Hello, World!” code.
 
-Append || yourlang to the list above.
+Append || your language to the list above.
 
 Submit a PR.
 
