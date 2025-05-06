@@ -1,4 +1,4 @@
-# HELLO-WORLD
+### HELLO-WORLD
 
 ## Why this exists
 
@@ -27,23 +27,11 @@ go run go.go
 
 File naming convention:
 
-Each file is named <language>.<extension> and contains a minimal “Hello, World!” example.
-
-Adding a new language
-
-Create yourlang.<ext>.
-
-Add your “Hello, World!” code.
-
-Append || your language to the list above.
-
-Submit a PR.
+Each file is named <language>.<extension> and contains a minimal “Hello, World!”.
 
 ## License
 
 This project is released under the MIT License. See LICENSE for details.
-
-
 
 ## How to contribute
 
