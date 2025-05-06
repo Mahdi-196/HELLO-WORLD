@@ -54,7 +54,7 @@ This project is released under the MIT License. See LICENSE for details.
 
 Fork the repository.
 
-Create a feature branch (git checkout -b feature/YourFeature).
+Create a feature branch (git checkout -b language and website it was found).
 
 Commit your changes (git commit -m "Add YourFeature").
 
