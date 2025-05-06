@@ -1,0 +1,2 @@
+# AMPL
+print "Hello, World!"; 

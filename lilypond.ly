@@ -1,0 +1,2 @@
+% LilyPond
+\markup { "Hello, World!" } 

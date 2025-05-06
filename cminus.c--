@@ -1,0 +1,9 @@
+foreign "C" {
+    puts(bits8 []);
+}
+
+foreign "C" puts("Hello, World!");
+
+export main() {
+    return ();
+} 

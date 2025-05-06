@@ -1,0 +1,4 @@
+; A-0 System
+; Note: This is a conceptual representation as A-0 was one of the first compiler systems
+; and didn't have a standard syntax for "Hello, World!"
+PRINT "Hello, World!" 

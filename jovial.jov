@@ -1,0 +1,5 @@
+! JOVIAL
+START
+  ITEM MSG 'Hello, World!';
+  WRITE(6) MSG;
+TERM 

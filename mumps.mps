@@ -1,0 +1,2 @@
+; MUMPS
+ WRITE "Hello, World!",! 

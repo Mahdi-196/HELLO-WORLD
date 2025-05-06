@@ -1,0 +1,10 @@
+#include "Halide.h"
+#include <iostream>
+
+using namespace Halide;
+
+int main() {
+    Func hello;
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+} 

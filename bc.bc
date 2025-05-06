@@ -1,0 +1,3 @@
+/* bc (basic calculator) */
+print "Hello, World!\n"
+quit 

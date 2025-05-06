@@ -1,0 +1,6 @@
+// Actor
+behavior Main is
+  method run() is
+    console.println("Hello, World!")
+  end
+end 

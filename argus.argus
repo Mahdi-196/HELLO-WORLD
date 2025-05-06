@@ -1,0 +1,4 @@
+% Argus
+start_up = proc()
+    output("Hello, World!\n")
+end start_up 

@@ -1,0 +1,3 @@
+// Ladder Logic
+// This is a text representation since Ladder Logic is visual
+// When rung is true, display "Hello, World!" on HMI 

@@ -1,0 +1,3 @@
+-- Lambda Calculus
+-- Not typically used for display directly, but conceptually:
+(λx.x) "Hello, World!" 
