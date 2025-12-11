@@ -1,0 +1,2 @@
+import structure Text from "x-alice:/lib/system/Text"
+Text.print "Hello, World!\n"

@@ -1,4 +1,1 @@
-; Action!
-PROC Main()
-  PrintE("Hello, World!")
-RETURN 
+PROC Main() PrintE("Hello, World!") RETURN

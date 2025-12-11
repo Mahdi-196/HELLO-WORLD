@@ -1,0 +1,3 @@
+PROC
+    DISPLAY(1, "Hello, World!", 10)
+STOP

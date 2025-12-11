@@ -1,0 +1,3 @@
+SYS-PROC MAIN$
+    WRITE "Hello, World!"$
+END-SYS-PROC$

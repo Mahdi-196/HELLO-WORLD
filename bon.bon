@@ -1,0 +1,1 @@
+class HELLO_WORLD root feature make is do print("Hello, World!%N") end end

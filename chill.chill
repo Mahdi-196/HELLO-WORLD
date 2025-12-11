@@ -1,0 +1,4 @@
+MODULE hello;
+  DCL output TEXT(100) DYNAMIC;
+  WRITETEXT(output, "Hello, World!");
+END hello;

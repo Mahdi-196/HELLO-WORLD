@@ -1,0 +1,5 @@
+program Hello type BasicProgram
+    function main()
+        SysLib.writeStdOut("Hello, World!");
+    end
+end

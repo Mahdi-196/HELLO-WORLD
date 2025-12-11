@@ -1,0 +1,4 @@
+(bitc-version "0.1")
+(provide main bitc.main)
+(defun main (argv)
+  (format "Hello, World!\n"))

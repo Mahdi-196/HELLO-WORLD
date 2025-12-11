@@ -1,0 +1,5 @@
+agent Program {
+    public Program() {
+        System.Console.WriteLine("Hello, World!");
+    }
+}

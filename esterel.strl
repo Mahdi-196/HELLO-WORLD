@@ -1,0 +1,3 @@
+module Hello:
+    emit O("Hello, World!");
+end module

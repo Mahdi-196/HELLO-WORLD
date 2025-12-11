@@ -1,0 +1,4 @@
+import runtime;
+main() {
+  println("Hello, World!");
+}
